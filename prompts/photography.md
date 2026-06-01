@@ -125,4 +125,4 @@
 3. **分辨率建议**：社交媒体用 1K，印刷用 2K-4K
 4. **多生成几次**，每次结果不同，选择最满意的
 
-> 在线体验：[gptimgtwo.com](https://www.gptimgtwo.com)
+> 在线体验：[www.clamflow.asia](https://www.clamflow.asia)

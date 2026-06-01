@@ -4,7 +4,7 @@
 
 **基于 OpenAI gpt-image-2 模型，输入文字即可生成高质量 AI 图片。照片级真实感、精准文字渲染、多种艺术风格。**
 
-[![在线体验](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C-gptimgtwo.com-8b5cf6?style=for-the-badge)](https://www.gptimgtwo.com)
+[![在线体验](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C-www.clamflow.asia-8b5cf6?style=for-the-badge)](https://www.clamflow.asia)
 [![模型](https://img.shields.io/badge/%E6%A8%A1%E5%9E%8B-GPT_Image_2-blue?style=flat-square)]()
 [![免费使用](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8-%E6%97%A0%E9%9C%80%E4%BF%A1%E7%94%A8%E5%8D%A1-green?style=flat-square)]()
 
@@ -40,7 +40,7 @@ GPT Image 2 是 OpenAI 于 2025 年发布的最新一代图像生成模型。它
 
 ### 第一步：注册账号
 
-访问 gptimgtwo.com，使用邮箱注册。注册即送免费生成次数。
+访问 www.clamflow.asia，使用邮箱注册。注册即送免费生成次数。
 
 ### 第二步：输入提示词
 
@@ -179,7 +179,7 @@ GPT Image 2 是 OpenAI 于 2025 年发布的最新一代图像生成模型。它
 
 <div align="center">
 
-**[立即免费生成 AI 图片 →](https://www.gptimgtwo.com)**
+**[立即免费生成 AI 图片 →](https://www.clamflow.asia)**
 
 Powered by OpenAI GPT Image 2 · Built for Creators
 

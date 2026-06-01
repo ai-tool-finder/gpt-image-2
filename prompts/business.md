@@ -134,4 +134,4 @@ lifestyle 产品摄影，浅景深，温馨氛围
 3. **品牌设计类建议用「数字艺术」风格**
 4. **需要添加文字的空间记得在提示词中说明「留白」**
 
-> 在线体验：[gptimgtwo.com](https://www.gptimgtwo.com)
+> 在线体验：[www.clamflow.asia](https://www.clamflow.asia)

@@ -21,7 +21,7 @@ GPT Image 2 是 OpenAI 于 2025 年发布的最新图像生成模型。它采用
 
 ### GPT Image 2 免费吗？
 
-是的。gptimgtwo.com 提供免费生成次数，注册即可使用，无需绑定信用卡或手机号。免费次数用完后可选择付费套餐。
+是的。www.clamflow.asia 提供免费生成次数，注册即可使用，无需绑定信用卡或手机号。免费次数用完后可选择付费套餐。
 
 ### 支持中文提示词吗？
 
@@ -33,7 +33,7 @@ GPT Image 2 是 OpenAI 于 2025 年发布的最新图像生成模型。它采用
 
 ### 怎么注册？
 
-1. 访问 [gptimgtwo.com](https://www.gptimgtwo.com)
+1. 访问 [www.clamflow.asia](https://www.clamflow.asia)
 2. 输入邮箱和密码
 3. 点击注册
 4. 即可获得免费生成次数
@@ -122,8 +122,8 @@ GPT Image 2 是 OpenAI 于 2025 年发布的最新图像生成模型。它采用
 
 ### 需要安装什么软件吗？
 
-不需要。直接在浏览器中打开 gptimgtwo.com 即可使用，支持 Chrome、Safari、Firefox、Edge 等主流浏览器。
+不需要。直接在浏览器中打开 www.clamflow.asia 即可使用，支持 Chrome、Safari、Firefox、Edge 等主流浏览器。
 
 ---
 
-还有其他问题？访问 gptimgtwo.com 页面底部查看联系方式。
+还有其他问题？访问 www.clamflow.asia 页面底部查看联系方式。

@@ -146,4 +146,4 @@
 3. **传统建筑推荐 16:9 横版构图**
 4. **神话场景建议用「数字艺术」风格 + 高分辨率**
 
-> 在线体验：[gptimgtwo.com](https://www.gptimgtwo.com)
+> 在线体验：[www.clamflow.asia](https://www.clamflow.asia)

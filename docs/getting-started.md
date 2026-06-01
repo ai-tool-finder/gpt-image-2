@@ -4,7 +4,7 @@
 
 ## 注册账号
 
-1. 打开 [gptimgtwo.com](https://www.gptimgtwo.com)
+1. 打开 [www.clamflow.asia](https://www.clamflow.asia)
 2. 输入邮箱和密码
 3. 点击注册
 4. 注册成功后自动获得免费生成次数

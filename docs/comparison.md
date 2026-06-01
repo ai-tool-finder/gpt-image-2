@@ -133,4 +133,4 @@ GPT Image 2 在以下场景中是最佳选择：
 - 希望低门槛、免费试用
 - 需要生成速度快的在线工具
 
-> **立即体验 GPT Image 2**：[www.gptimgtwo.com](https://www.gptimgtwo.com)
+> **立即体验 GPT Image 2**：[www.clamflow.asia](https://www.clamflow.asia)

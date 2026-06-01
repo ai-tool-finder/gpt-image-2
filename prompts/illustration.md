@@ -133,4 +133,4 @@ C4D 渲染风格，柔和阴影，Isometric 视角
 3. **水彩类提示词搭配「水彩」风格效果最佳**
 4. **概念艺术建议用「数字艺术」风格 + 高分辨率**
 
-> 在线体验：[gptimgtwo.com](https://www.gptimgtwo.com)
+> 在线体验：[www.clamflow.asia](https://www.clamflow.asia)
